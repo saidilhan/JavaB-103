@@ -8,7 +8,7 @@ import java.time.chrono.JapaneseDate;
 import java.time.temporal.ChronoUnit;
 
 public class DateTime01 {
-
+    //Mevlana gibi
     public static void main(String[] args) {
 
         //Example 1: "Anlık tarihi"(Current Date) ekrana yazdıran kodu yazınız.
